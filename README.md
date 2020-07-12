@@ -6,7 +6,7 @@ It is similar to basic version of yelp.com. It allows students in the campus to 
 A front-end page for customers looks like this:
 
 
-![](images/screenshot1.gif)
+<img src="images/screenshot1.gif" width="375" height="667">
 
 
 
