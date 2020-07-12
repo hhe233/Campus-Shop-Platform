@@ -1,0 +1,5 @@
+2020-07-12 08:22:15.883[main]INFO com.store.o2o.O2oApplication - Starting O2oApplication on hetingruis-MacBook-Pro.local with PID 831 (/Users/hetingrui/Desktop/o2o/target/classes started by hetingrui in /Users/hetingrui/Desktop/o2o)
+2020-07-12 08:22:15.889[main]INFO com.store.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2020-07-12 08:22:18.430[main]INFO com.store.o2o.O2oApplication - Started O2oApplication in 2.872 seconds (JVM running for 3.602)
+2020-07-12 08:25:36.676[main]INFO com.store.o2o.O2oApplication - Starting O2oApplication on hetingruis-MacBook-Pro.local with PID 862 (/Users/hetingrui/Desktop/o2o/target/classes started by hetingrui in /Users/hetingrui/Desktop/o2o)
+2020-07-12 08:25:36.679[main]INFO com.store.o2o.O2oApplication - No active profile set, falling back to default profiles: default
