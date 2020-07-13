@@ -71,6 +71,6 @@ The 'add shop' button will also jump to this page. The controller will check if 
 
 The project is deployed to Alibaba Cloud server which runs CentOS 7.
 
-Hope you like it!❤️
+Hope you like it! ❤️
 
 
