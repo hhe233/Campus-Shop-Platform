@@ -1,7 +1,7 @@
 # Campus-Shop-Platform
 A web app that connects small businesses to students in the campus.
 
-It is similar to basic version of yelp.com. Students can easily navigate to the local businesses they need and shop owners can showcase their shops. It has a sign up / log in system for customers and shop owners. It also has a point system which creates customer loyalty to the shops.
+It is similar to basic version of yelp.com. Students can easily navigate to the local businesses they need and shop owners to showcase their shops. It has a sign up / log in system for customers and shop owners. It also has a point system which adds customer loyalty to the shops.
 
 ## Environment
 * JDK: 1.8
@@ -51,7 +51,7 @@ After successful log in, the page will list all shops the user owned. User can e
 <img src="images/screenshot6.png" width="380" height="660">
 
 
-User can edit shop info, products, and product category of the shop.
+When click 'edit' beside the specific product, user will be directed to this page which can edit shop info, products, and product category of the shop.
 
 
 <img src="images/screenshot7.png" width="380" height="660">
