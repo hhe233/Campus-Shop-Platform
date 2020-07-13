@@ -3,6 +3,17 @@ A web app that connects small businesses to students in the campus.
 
 It is similar to basic version of yelp.com. It allows students in the campus to easily navigate to the local businesses they need and shop owners to showcase their shops. It has a sign up / log in system for customers and shop owners. It also has a point system which creates customer loyalty to the shops.
 
+## Environment
+* JDK 1.8
+* IDE Intellij IDEA
+* MySql 8.0
+* Maven 4.0.0
+* HTML H5
+* Spring Boot: 2.1.6
+* Deploy: Alibaba Cloud
+
+
+
 ## A front-end page for customers looks like this:
 
 
@@ -27,16 +38,35 @@ Details of the shop. Users can filtering products sold in the shop using the pro
 
 ## Shop manangement system for shop owner
 Log In page. Any url request to this module without log in will be directed to this page by an interceptor.
+
+
 <img src="images/screenshot5.png" width="380" height="667">
+
+
 After successful log in, the page will list all shops the user owned. User can either add shops or edit shops that are already verified.
+
+
 <img src="images/screenshot6.png" width="380" height="667">
+
+
 User can edit shop info, products, and product category of the shop.
+
+
 <img src="images/screenshot7.png" width="380" height="667">
+
+
 For example, for shop info:
+
+
 <img src="images/screenshot8.png" width="380" height="667">
-The actually 'add shop' button will also jump to this page. The controller will check if the url has shop id. If it does, it will also fetch the shop details from the database to pre-fill the form.
+
+
+The 'add shop' button will also jump to this page. The controller will check if the url has shop id. If it does, it will also fetch the shop details from the database to pre-fill the form.
 
 
 
+The project is deployed to Alibaba Cloud server which runs CentOS 7.
+
+Hope you like it❤️
 
 
