@@ -37,6 +37,8 @@ This page shows the shop list for 'food' category. Users can filter results usin
 
 Details of the shop. Users can filter products sold in the shop using the product category tags. When cliking on the product, the page jumps to details of the product.
 
+<img src="images/screenshot9.png" width="380" height="660">
+Details of a product. It fetches price, images and other info of the product from the database. The number of points the user can collect upon purchase is also shown.
 
 ## Shop manangement system for shop owner
 Log In page. Any url request to this module without log in will be directed to this page by an interceptor. User info will be added to the session upon successful log in to prevent repeated log in during the session duration.
