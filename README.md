@@ -1,5 +1,5 @@
 # Campus-Shop-Platform
-A web app that connects small businesses to students in the campus.
+A Spring boot web app that connects small businesses to students in the campus.
 
 It is similar to basic version of yelp.com. Students can easily navigate to the local businesses they need and shop owners to showcase their shops. It has a sign up / log in system for customers and shop owners. It also has a point system which adds customer loyalty to the shops.
 
