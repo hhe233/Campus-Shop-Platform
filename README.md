@@ -5,11 +5,13 @@ It is similar to basic version of yelp.com. Students can easily navigate to the 
 
 ## Environment
 * JDK: 1.8
-* IDE: Intellij IDEA
+
 * MySql: 8.0
-* Maven: 4.0.0
-* HTML: H5
 * Spring Boot: 2.1.6
+* Server: Tomcat
+* Front end: H5 + CSS3 + jQuery
+* Maven: 4.0.0
+* IDE: Intellij IDEA
 * Deploy: Alibaba Cloud
 
 
